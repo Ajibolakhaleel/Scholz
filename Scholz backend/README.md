@@ -1,8 +1,8 @@
-# Imtihani
+# Scholz
 
-# ChadLearnHub: Accessible Learning Solutions
+#  Accessible Learning Solutions
 # Introduction
-This repository contains the source code for ChadLearnHub, an educational software application designed to provide accessible learning solutions for Chadian students. The project aims to democratize access to educational materials, address the challenges of fragmented resources, and enhance the learning experience for students in Chad.
+This repository contains the source code for Schols, an educational software application designed to provide accessible learning solutions for NSchols students. The project aims to democratize access to educational materials, address the challenges of fragmented resources, and enhance the learning experience for students in Nigeria.
 
 
 # Getting Started
@@ -12,8 +12,8 @@ This repository contains the source code for ChadLearnHub, an educational softwa
 - Docker installed
 
 # Installation
-- Clone the repository: `git clone https://github.com/Kakaymi10/Imtihani.git`
-- Navigate to the project directory: `cd Imtihani`
+- Clone the repository: `git clone https://github.com/Ajibolakhaleel/Scholz/`
+- Navigate to the project directory: `cd '
 - Install dependencies: `npm install`
   
 # Configuration
