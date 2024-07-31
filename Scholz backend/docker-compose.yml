@@ -1,0 +1,14 @@
+version: '3.8'  # Use the Docker Compose file format version
+
+services:
+  redis:
+    image: redis # Use the official Redis Docker image from Docker Hub
+    container_name: my-redis2 # Assign a custom container name
+    ports:
+      - "6380:6379"  # Map container port 6379 to host port 6379
+
+  mongo:
+    image: mongo  # Use the official MongoDB Docker image from Docker Hub
+    container_name: my-mongo2 # Assign a custom container name
+    ports:
+      - "27017:27017"  # Map container port 27017
